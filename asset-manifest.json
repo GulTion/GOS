@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GOS/static/css/main.4b710c51.chunk.css",
+    "main.js": "/GOS/static/js/main.de05324f.chunk.js",
+    "main.js.map": "/GOS/static/js/main.de05324f.chunk.js.map",
+    "runtime-main.js": "/GOS/static/js/runtime-main.2eb93702.js",
+    "runtime-main.js.map": "/GOS/static/js/runtime-main.2eb93702.js.map",
+    "static/js/2.8129b9ca.chunk.js": "/GOS/static/js/2.8129b9ca.chunk.js",
+    "static/js/2.8129b9ca.chunk.js.map": "/GOS/static/js/2.8129b9ca.chunk.js.map",
+    "index.html": "/GOS/index.html",
+    "precache-manifest.8afcc3684c8f9a5ba7940f310786f2e2.js": "/GOS/precache-manifest.8afcc3684c8f9a5ba7940f310786f2e2.js",
+    "service-worker.js": "/GOS/service-worker.js",
+    "static/css/main.4b710c51.chunk.css.map": "/GOS/static/css/main.4b710c51.chunk.css.map",
+    "static/media/Win.css": "/GOS/static/media/resize.9e158fdf.ico",
+    "static/media/OS.css": "/GOS/static/media/wall.8dc57db5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eb93702.js",
+    "static/js/2.8129b9ca.chunk.js",
+    "static/css/main.4b710c51.chunk.css",
+    "static/js/main.de05324f.chunk.js"
+  ]
+}
